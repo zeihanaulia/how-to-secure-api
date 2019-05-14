@@ -1,4 +1,4 @@
-module github.com/zeihanaulia/how-to-secure-api
+module github.com/zeihanaulia/how-to-secure-api/go-simple-jwt
 
 go 1.12
 
