@@ -126,3 +126,7 @@ Bisa lihat divideo ini
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/67mezK3NzpU/0.jpg)](https://www.youtube.com/watch?v=67mezK3NzpU)
 
 TODO: list kenapa menggunakan jwt dari video diatas dengan tulisan
+
+## Contoh Implementasi
+
+- [go simple jwt](https://github.com/zeihanaulia/how-to-secure-api/tree/master/go-simple-jwt) Go language dan chi router
